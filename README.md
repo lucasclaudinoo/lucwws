@@ -23,3 +23,10 @@ Olá, meu nome é Lucas! 🚀
   - Python
   - FastApi
   - MongoDB
+
+
+## Sobre mim 👨🏻‍💻
+
+Estudante de análise e desenvolvimento de sistemas pela FMF - Faculdade Martha Falcão Wyden
+Amo tecnologia e a área de TI dês de criança, atualmente tenho me dedicado a me tornar um desenvolvedor Full Stack
+Atualmente sou estagiário de desenvolvimento no Grupo ICTS
