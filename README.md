@@ -8,10 +8,10 @@
 
 Olá, meu nome é Lucas! 🚀
 <br>
-
-</h3>
 <a href="https://linkedin.com/in/lucwws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucwws" height="30" width="40" /></a>
 <a href="https://instagram.com/lucwws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucwws" height="30" width="40" /></a><hr>
+
+</h3>
 
 
 </h4>
