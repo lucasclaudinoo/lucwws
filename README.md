@@ -13,7 +13,5 @@ Olá, meu nome é Lucas! 🚀
 
 <hr>
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/lucwws)]
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucwws)](https://www.instagram.com/lucwws/)
 
 </h4>
